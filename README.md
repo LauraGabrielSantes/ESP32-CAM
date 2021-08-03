@@ -1,5 +1,5 @@
 # ESP32-CAM
-Este repositorio contiene los códigos y evidencias de proyectos relacionados con ESP32-CAM realizados en Samgung Innovaton Campus.
+Este repositorio contiene los códigos y evidencias de proyectos relacionados con ESP32-CAM.
 - Martes 27 de julio 2021
   -  Evidencia  de conexión y encendido de la cámara integrada en ESP32.
   - Evidencia de encendido de flash integrado en ESP32-CAM
